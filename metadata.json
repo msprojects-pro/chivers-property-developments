@@ -1,0 +1,6 @@
+{
+  "name": "Chivers Property Developments",
+  "description": "Complete property development, renovation & maintenance services in the UK, including home offices, garden rooms, bathrooms, kitchens, UPVC, landscaping, and conversions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
